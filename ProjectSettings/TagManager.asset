@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - DestructibleFloor
+  - Explosion
+  - PlayerShield
+  - Projectile
+  - UI
+  - CurrentTime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - EnemyDamage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1606481417
+    locked: 0
+  - name: Details
+    uniqueID: 408675509
+    locked: 0
+  - name: Entity
+    uniqueID: 2262188567
+    locked: 0
+  - name: Foreground
+    uniqueID: 4090003047
+    locked: 0
+  - name: Effects
+    uniqueID: 3850924223
+    locked: 0

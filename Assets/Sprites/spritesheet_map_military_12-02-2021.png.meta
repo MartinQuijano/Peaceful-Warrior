@@ -1,0 +1,2867 @@
+fileFormatVersion: 2
+guid: a734c6412cbfba245a2b5b75be4c06c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6832875128631843380
+    second: spritesheet_map_military_12-02-2021_0
+  - first:
+      213: 1241604111573136891
+    second: spritesheet_map_military_12-02-2021_1
+  - first:
+      213: 7836123578602760865
+    second: spritesheet_map_military_12-02-2021_2
+  - first:
+      213: 253189489463498748
+    second: spritesheet_map_military_12-02-2021_3
+  - first:
+      213: 7479031416862529046
+    second: spritesheet_map_military_12-02-2021_4
+  - first:
+      213: -6524982458700391205
+    second: spritesheet_map_military_12-02-2021_5
+  - first:
+      213: 1937619319356816924
+    second: spritesheet_map_military_12-02-2021_6
+  - first:
+      213: 4998718469710318358
+    second: spritesheet_map_military_12-02-2021_7
+  - first:
+      213: -772313187971058569
+    second: spritesheet_map_military_12-02-2021_8
+  - first:
+      213: 7902401738900514440
+    second: spritesheet_map_military_12-02-2021_9
+  - first:
+      213: 8063615480444964047
+    second: spritesheet_map_military_12-02-2021_10
+  - first:
+      213: 4520759976252839997
+    second: spritesheet_map_military_12-02-2021_11
+  - first:
+      213: 7385793801799993774
+    second: spritesheet_map_military_12-02-2021_12
+  - first:
+      213: 2204183812829734183
+    second: spritesheet_map_military_12-02-2021_13
+  - first:
+      213: -7189676117744688216
+    second: spritesheet_map_military_12-02-2021_14
+  - first:
+      213: -4269050755599346603
+    second: spritesheet_map_military_12-02-2021_15
+  - first:
+      213: -6474596546158312197
+    second: spritesheet_map_military_12-02-2021_16
+  - first:
+      213: 751727282338369823
+    second: spritesheet_map_military_12-02-2021_17
+  - first:
+      213: 3644759210417028768
+    second: spritesheet_map_military_12-02-2021_18
+  - first:
+      213: 7056375443360427564
+    second: spritesheet_map_military_12-02-2021_19
+  - first:
+      213: -4083512025454131186
+    second: spritesheet_map_military_12-02-2021_20
+  - first:
+      213: 833487274534365453
+    second: spritesheet_map_military_12-02-2021_21
+  - first:
+      213: -7086267696255883539
+    second: spritesheet_map_military_12-02-2021_22
+  - first:
+      213: -3980649362667881699
+    second: spritesheet_map_military_12-02-2021_23
+  - first:
+      213: -7800892263736921987
+    second: spritesheet_map_military_12-02-2021_24
+  - first:
+      213: -3364595512677068112
+    second: spritesheet_map_military_12-02-2021_25
+  - first:
+      213: 1004304156611501480
+    second: spritesheet_map_military_12-02-2021_26
+  - first:
+      213: 1066283594571433817
+    second: spritesheet_map_military_12-02-2021_27
+  - first:
+      213: 6886025992520561254
+    second: spritesheet_map_military_12-02-2021_28
+  - first:
+      213: 1483695447856994566
+    second: spritesheet_map_military_12-02-2021_29
+  - first:
+      213: 1423345403310661372
+    second: spritesheet_map_military_12-02-2021_30
+  - first:
+      213: -5477046623173798273
+    second: spritesheet_map_military_12-02-2021_31
+  - first:
+      213: -940273540038291515
+    second: spritesheet_map_military_12-02-2021_32
+  - first:
+      213: 7375907957680258273
+    second: spritesheet_map_military_12-02-2021_33
+  - first:
+      213: -3684587384646260876
+    second: spritesheet_map_military_12-02-2021_34
+  - first:
+      213: -2198345476809654322
+    second: spritesheet_map_military_12-02-2021_35
+  - first:
+      213: -7535674297291415238
+    second: spritesheet_map_military_12-02-2021_36
+  - first:
+      213: -8278178785151749001
+    second: spritesheet_map_military_12-02-2021_37
+  - first:
+      213: 9199573284489915330
+    second: spritesheet_map_military_12-02-2021_38
+  - first:
+      213: -1960857382452350107
+    second: spritesheet_map_military_12-02-2021_39
+  - first:
+      213: -5460040192908900168
+    second: spritesheet_map_military_12-02-2021_40
+  - first:
+      213: 6051943654087269164
+    second: spritesheet_map_military_12-02-2021_41
+  - first:
+      213: -3163014469035106931
+    second: spritesheet_map_military_12-02-2021_42
+  - first:
+      213: 5868184307256095604
+    second: spritesheet_map_military_12-02-2021_43
+  - first:
+      213: 4999862150564748270
+    second: spritesheet_map_military_12-02-2021_44
+  - first:
+      213: -6629900432570777590
+    second: spritesheet_map_military_12-02-2021_45
+  - first:
+      213: -5228580969323301207
+    second: spritesheet_map_military_12-02-2021_46
+  - first:
+      213: -5261639652489127421
+    second: spritesheet_map_military_12-02-2021_47
+  - first:
+      213: 7429875112135697349
+    second: spritesheet_map_military_12-02-2021_48
+  - first:
+      213: -5574071651343722223
+    second: spritesheet_map_military_12-02-2021_49
+  - first:
+      213: 3972201858619145092
+    second: spritesheet_map_military_12-02-2021_50
+  - first:
+      213: 1086270148287162766
+    second: spritesheet_map_military_12-02-2021_51
+  - first:
+      213: 607722699557847137
+    second: spritesheet_map_military_12-02-2021_52
+  - first:
+      213: -6848695178492331845
+    second: spritesheet_map_military_12-02-2021_53
+  - first:
+      213: -1128500361837433358
+    second: spritesheet_map_military_12-02-2021_54
+  - first:
+      213: 5550692821203872088
+    second: spritesheet_map_military_12-02-2021_55
+  - first:
+      213: 3951464092359186790
+    second: spritesheet_map_military_12-02-2021_56
+  - first:
+      213: 1025878947314494505
+    second: spritesheet_map_military_12-02-2021_57
+  - first:
+      213: 9077130065697281585
+    second: spritesheet_map_military_12-02-2021_58
+  - first:
+      213: -1666492275224301396
+    second: spritesheet_map_military_12-02-2021_59
+  - first:
+      213: -7145056782313278153
+    second: spritesheet_map_military_12-02-2021_0
+  - first:
+      213: 7092142345564075369
+    second: spritesheet_map_military_12-02-2021_1
+  - first:
+      213: -2665009810128369349
+    second: spritesheet_map_military_12-02-2021_2
+  - first:
+      213: -4569701326551474848
+    second: spritesheet_map_military_12-02-2021_3
+  - first:
+      213: 5688630373254026423
+    second: spritesheet_map_military_12-02-2021_4
+  - first:
+      213: 3633040298464457608
+    second: spritesheet_map_military_12-02-2021_5
+  - first:
+      213: 3451792095489351344
+    second: spritesheet_map_military_12-02-2021_6
+  - first:
+      213: 7199630211828249764
+    second: spritesheet_map_military_12-02-2021_7
+  - first:
+      213: -4433611875617568455
+    second: spritesheet_map_military_12-02-2021_8
+  - first:
+      213: -2907685573144234650
+    second: spritesheet_map_military_12-02-2021_9
+  - first:
+      213: 4753244004900615645
+    second: spritesheet_map_military_12-02-2021_10
+  - first:
+      213: -3063304660258381491
+    second: spritesheet_map_military_12-02-2021_11
+  - first:
+      213: -310665970743305818
+    second: spritesheet_map_military_12-02-2021_12
+  - first:
+      213: -1373444551843324516
+    second: spritesheet_map_military_12-02-2021_13
+  - first:
+      213: 499444874241386426
+    second: spritesheet_map_military_12-02-2021_14
+  - first:
+      213: 6190861015810611552
+    second: spritesheet_map_military_12-02-2021_15
+  - first:
+      213: -7753740201817921992
+    second: spritesheet_map_military_12-02-2021_16
+  - first:
+      213: 2963001039907296856
+    second: spritesheet_map_military_12-02-2021_17
+  - first:
+      213: 4229500322874410329
+    second: spritesheet_map_military_12-02-2021_18
+  - first:
+      213: -9147225893207317416
+    second: spritesheet_map_military_12-02-2021_19
+  - first:
+      213: -4378563841303069985
+    second: spritesheet_map_military_12-02-2021_20
+  - first:
+      213: 1611181502278226284
+    second: spritesheet_map_military_12-02-2021_21
+  - first:
+      213: -892004305539992212
+    second: spritesheet_map_military_12-02-2021_22
+  - first:
+      213: 5229264941211638497
+    second: spritesheet_map_military_12-02-2021_23
+  - first:
+      213: 2474527254651115055
+    second: spritesheet_map_military_12-02-2021_24
+  - first:
+      213: 1301842911143354145
+    second: spritesheet_map_military_12-02-2021_25
+  - first:
+      213: -3923358451788290446
+    second: spritesheet_map_military_12-02-2021_26
+  - first:
+      213: -192111353800522570
+    second: spritesheet_map_military_12-02-2021_27
+  - first:
+      213: 5199283923248523481
+    second: spritesheet_map_military_12-02-2021_28
+  - first:
+      213: 5606276817963132305
+    second: spritesheet_map_military_12-02-2021_29
+  - first:
+      213: -4533070604665294217
+    second: spritesheet_map_military_12-02-2021_30
+  - first:
+      213: 6918859730957785874
+    second: spritesheet_map_military_12-02-2021_31
+  - first:
+      213: 7938485836411299233
+    second: spritesheet_map_military_12-02-2021_32
+  - first:
+      213: 7775100673357312786
+    second: spritesheet_map_military_12-02-2021_33
+  - first:
+      213: 6019125659995547416
+    second: spritesheet_map_military_12-02-2021_34
+  - first:
+      213: 1019354450164975540
+    second: spritesheet_map_military_12-02-2021_35
+  - first:
+      213: 3019108438998129081
+    second: spritesheet_map_military_12-02-2021_36
+  - first:
+      213: 6435341088154182005
+    second: spritesheet_map_military_12-02-2021_37
+  - first:
+      213: 7011958062666231821
+    second: spritesheet_map_military_12-02-2021_38
+  - first:
+      213: 4299094973730357528
+    second: spritesheet_map_military_12-02-2021_39
+  - first:
+      213: 4457045151709166872
+    second: spritesheet_map_military_12-02-2021_40
+  - first:
+      213: 7620267506041213114
+    second: spritesheet_map_military_12-02-2021_41
+  - first:
+      213: 4004952954358791794
+    second: spritesheet_map_military_12-02-2021_42
+  - first:
+      213: 4405338403625017527
+    second: spritesheet_map_military_12-02-2021_43
+  - first:
+      213: 6438870444139589702
+    second: spritesheet_map_military_12-02-2021_44
+  - first:
+      213: -8269849656195490673
+    second: spritesheet_map_military_12-02-2021_45
+  - first:
+      213: 5478858344159522094
+    second: spritesheet_map_military_12-02-2021_46
+  - first:
+      213: 5305799916713342963
+    second: spritesheet_map_military_12-02-2021_47
+  - first:
+      213: -3634928730504831092
+    second: spritesheet_map_military_12-02-2021_48
+  - first:
+      213: 8506721874391430020
+    second: spritesheet_map_military_12-02-2021_49
+  - first:
+      213: -764959567666734762
+    second: spritesheet_map_military_12-02-2021_50
+  - first:
+      213: 7233831864089829580
+    second: spritesheet_map_military_12-02-2021_51
+  - first:
+      213: 5101093264085853322
+    second: spritesheet_map_military_12-02-2021_52
+  - first:
+      213: -3291958549505117997
+    second: spritesheet_map_military_12-02-2021_53
+  - first:
+      213: -5785405875577669208
+    second: spritesheet_map_military_12-02-2021_54
+  - first:
+      213: 4633582028641664911
+    second: spritesheet_map_military_12-02-2021_55
+  - first:
+      213: -5958719158834801420
+    second: spritesheet_map_military_12-02-2021_56
+  - first:
+      213: 8489739767297810618
+    second: spritesheet_map_military_12-02-2021_57
+  - first:
+      213: -8087579466234507192
+    second: spritesheet_map_military_12-02-2021_58
+  - first:
+      213: -2973361640287711454
+    second: spritesheet_map_military_12-02-2021_59
+  - first:
+      213: 2909435206923816445
+    second: spritesheet_map_military_12-02-2021_60
+  - first:
+      213: 5499503300380552336
+    second: spritesheet_map_military_12-02-2021_61
+  - first:
+      213: -6139912628633816795
+    second: spritesheet_map_military_12-02-2021_62
+  - first:
+      213: 6883309183793309936
+    second: spritesheet_map_military_12-02-2021_63
+  - first:
+      213: -6988940653505538951
+    second: spritesheet_map_military_12-02-2021_64
+  - first:
+      213: -3606813315653707881
+    second: spritesheet_map_military_12-02-2021_65
+  - first:
+      213: 5539755569341526440
+    second: spritesheet_map_military_12-02-2021_66
+  - first:
+      213: 2653656527085501932
+    second: spritesheet_map_military_12-02-2021_67
+  - first:
+      213: 4953973048346053553
+    second: spritesheet_map_military_12-02-2021_68
+  - first:
+      213: 4558928460312835368
+    second: spritesheet_map_military_12-02-2021_69
+  - first:
+      213: -5295713498130830152
+    second: spritesheet_map_military_12-02-2021_70
+  - first:
+      213: 6595158054956977496
+    second: spritesheet_map_military_12-02-2021_71
+  - first:
+      213: -7230508692607588739
+    second: spritesheet_map_military_12-02-2021_72
+  - first:
+      213: 656622167123880990
+    second: spritesheet_map_military_12-02-2021_73
+  - first:
+      213: 662092216997296858
+    second: spritesheet_map_military_12-02-2021_74
+  - first:
+      213: 2783909186280943172
+    second: spritesheet_map_military_12-02-2021_75
+  - first:
+      213: 8813771715024047766
+    second: spritesheet_map_military_12-02-2021_76
+  - first:
+      213: -4402430810595763525
+    second: spritesheet_map_military_12-02-2021_77
+  - first:
+      213: -3913604373712396223
+    second: spritesheet_map_military_12-02-2021_65
+  - first:
+      213: -4154092931535627975
+    second: spritesheet_map_military_12-02-2021_78
+  - first:
+      213: 810821900747075606
+    second: spritesheet_map_military_12-02-2021_79
+  - first:
+      213: 4025494957810550209
+    second: spritesheet_map_military_12-02-2021_80
+  - first:
+      213: 53650493492704097
+    second: spritesheet_map_military_12-02-2021_81
+  - first:
+      213: 4697698362560744447
+    second: spritesheet_map_military_12-02-2021_82
+  - first:
+      213: -1084013544960808223
+    second: spritesheet_map_military_12-02-2021_83
+  - first:
+      213: 5499369159396225297
+    second: spritesheet_map_military_12-02-2021_84
+  - first:
+      213: -8188055057251328539
+    second: spritesheet_map_military_12-02-2021_85
+  - first:
+      213: -7388205916833455932
+    second: spritesheet_map_military_12-02-2021_86
+  - first:
+      213: -9208484561809137247
+    second: spritesheet_map_military_12-02-2021_87
+  - first:
+      213: -6947885061440524955
+    second: spritesheet_map_military_12-02-2021_88
+  - first:
+      213: -6419202576184610752
+    second: spritesheet_map_military_12-02-2021_89
+  - first:
+      213: -6477229729792793965
+    second: spritesheet_map_military_12-02-2021_90
+  - first:
+      213: 7223877219563124375
+    second: spritesheet_map_military_12-02-2021_91
+  - first:
+      213: 1930477100231464121
+    second: spritesheet_map_military_12-02-2021_92
+  - first:
+      213: -5002125535223050973
+    second: spritesheet_map_military_12-02-2021_93
+  - first:
+      213: -2717649373145882755
+    second: spritesheet_map_military_12-02-2021_94
+  - first:
+      213: 245901063679713618
+    second: spritesheet_map_military_12-02-2021_95
+  - first:
+      213: 5466626376073691534
+    second: spritesheet_map_military_12-02-2021_96
+  - first:
+      213: -4696071295098506156
+    second: spritesheet_map_military_12-02-2021_97
+  - first:
+      213: -2447868035168765231
+    second: spritesheet_map_military_12-02-2021_98
+  - first:
+      213: -7893961040310552381
+    second: spritesheet_map_military_12-02-2021_99
+  - first:
+      213: 4263587312160530679
+    second: spritesheet_map_military_12-02-2021_100
+  - first:
+      213: 9170071821361298588
+    second: spritesheet_map_military_12-02-2021_101
+  - first:
+      213: -5868708952217249780
+    second: spritesheet_map_military_12-02-2021_102
+  - first:
+      213: -3583531727053756268
+    second: spritesheet_map_military_12-02-2021_103
+  - first:
+      213: -2519853580144995424
+    second: spritesheet_map_military_12-02-2021_104
+  - first:
+      213: -8838140073934369503
+    second: spritesheet_map_military_12-02-2021_105
+  - first:
+      213: -5466827987787872991
+    second: spritesheet_map_military_12-02-2021_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735b83e66b8a7dc90800000000000000
+      internalID: -7145056782313278153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653ad333e95c6260800000000000000
+      internalID: 7092142345564075369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.12355709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b390e5092bbf30bd0800000000000000
+      internalID: -2665009810128369349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9445dad82590c0800000000000000
+      internalID: -4569701326551474848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4dd405f2312fe40800000000000000
+      internalID: 5688630373254026423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88337ac17e62b6230800000000000000
+      internalID: 3633040298464457608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed42a5f9a37ef20800000000000000
+      internalID: 3451792095489351344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4713a48893ae360800000000000000
+      internalID: 7199630211828249764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9398cd94d75a872c0800000000000000
+      internalID: -4433611875617568455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665b5367063d5a7d0800000000000000
+      internalID: -2907685573144234650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53bda1d3ae6f140800000000000000
+      internalID: 4753244004900615645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41208e34a4fc75d0800000000000000
+      internalID: -3063304660258381491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a91b0212fa40bbf0800000000000000
+      internalID: -310665970743305818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ddea8f47b80fce0800000000000000
+      internalID: -1373444551843324516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab72c0a87726ee600800000000000000
+      internalID: 499444874241386426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06994351b4b5ae550800000000000000
+      internalID: 6190861015810611552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8362af51e5e256490800000000000000
+      internalID: -7753740201817921992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85699c44fb1be1920800000000000000
+      internalID: 2963001039907296856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9554452822432ba30800000000000000
+      internalID: 4229500322874410329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546f13a3868e0180800000000000000
+      internalID: -9147225893207317416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab2cc82673c33c0800000000000000
+      internalID: -4378563841303069985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6159f73a011c5610800000000000000
+      internalID: 1611181502278226284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c657b266fc6fe93f0800000000000000
+      internalID: -892004305539992212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead25912c4129840800000000000000
+      internalID: 5229264941211638497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2690807d69475220800000000000000
+      internalID: 2474527254651115055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f5f00fa33111210800000000000000
+      internalID: 1301842911143354145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276e1a2664e6d89c0800000000000000
+      internalID: -3923358451788290446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b48667ddbb755df0800000000000000
+      internalID: -192111353800522570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8a0a36e21972840800000000000000
+      internalID: 5199283923248523481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952337001f7dcd40800000000000000
+      internalID: 5606276817963132305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f8236d4c4711c0800000000000000
+      internalID: -4533070604665294217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b5e72844ab40060800000000000000
+      internalID: 6918859730957785874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e3cdeeca2b2e60800000000000000
+      internalID: 7938485836411299233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fc504ed4b6eb60800000000000000
+      internalID: 7775100673357312786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8172976a5ea388350800000000000000
+      internalID: 6019125659995547416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b70c4eb879752e00800000000000000
+      internalID: 1019354450164975540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b91edc112706e920800000000000000
+      internalID: 3019108438998129081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e7efaf9cee4950800000000000000
+      internalID: 6435341088154182005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00382105ba7f4160800000000000000
+      internalID: 7011958062666231821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118ddcd91479ab30800000000000000
+      internalID: 4299094973730357528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d708773fa9add30800000000000000
+      internalID: 4457045151709166872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d90f3ce0a0c960800000000000000
+      internalID: 7620267506041213114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef4ba2e73749730800000000000000
+      internalID: 4004952954358791794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0a47700f7e22d30800000000000000
+      internalID: 4405338403625017527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640b3b9ed867b5950800000000000000
+      internalID: 6438870444139589702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd490ad879b3d80800000000000000
+      internalID: -8269849656195490673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2052c2a0d80c40800000000000000
+      internalID: 5478858344159522094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7fef4b9ecf1a940800000000000000
+      internalID: 5305799916713342963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fd56a04932e8dc0800000000000000
+      internalID: -3634928730504831092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48375266972fd0670800000000000000
+      internalID: 8506721874391430020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65910bd73515265f0800000000000000
+      internalID: -764959567666734762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0e9fff0cbb36460800000000000000
+      internalID: 7233831864089829580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84a9f30c49bac640800000000000000
+      internalID: 5101093264085853322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0ff69042d9052d0800000000000000
+      internalID: -3291958549505117997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f45655ee706e4da0800000000000000
+      internalID: -5958719158834801420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab02b49765d91d570800000000000000
+      internalID: 8489739767297810618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8405956435523cf80800000000000000
+      internalID: -8087579466234507192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fc0e9775f7cb6d0800000000000000
+      internalID: -2973361640287711454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd85b5e7e3606820800000000000000
+      internalID: 2909435206923816445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c65443d19225c40800000000000000
+      internalID: 5499503300380552336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521b852bef5aacaa0800000000000000
+      internalID: -6139912628633816795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f82f2bbb3d668f50800000000000000
+      internalID: 6883309183793309936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974148f218b420f90800000000000000
+      internalID: -6988940653505538951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb868d7d3c00c440800000000000000
+      internalID: 4953973048346053553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8257d59c741944f30800000000000000
+      internalID: 4558928460312835368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcabaf91a8d186b0800000000000000
+      internalID: -5295713498130830152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d444fee45b68b50800000000000000
+      internalID: 6595158054956977496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_76
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec46d6daec05a70800000000000000
+      internalID: 8813771715024047766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba543ab08c67e2c0800000000000000
+      internalID: -4402430810595763525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fda7c366e2c650f0800000000000000
+      internalID: -1128500361837433358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ea2946b5080d40800000000000000
+      internalID: 5550692821203872088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402579ae8510b9c0800000000000000
+      internalID: -3913604373712396223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_66
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f715e65a21ec40800000000000000
+      internalID: 5539755569341526440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedf3dc3d8ea3d420800000000000000
+      internalID: 2653656527085501932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7620c727a218ab90800000000000000
+      internalID: -7230508692607588739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_73
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ce01fc16acc1900800000000000000
+      internalID: 656622167123880990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adabcaa0d59303900800000000000000
+      internalID: 662092216997296858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee837b7ae62a620800000000000000
+      internalID: 2783909186280943172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399bd3fc72b956c0800000000000000
+      internalID: -4154092931535627975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_79
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f22a093e904b00800000000000000
+      internalID: 810821900747075606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c58c6d065e6dd730800000000000000
+      internalID: 4025494957810550209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16338aee6da9eb000800000000000000
+      internalID: 53650493492704097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_82
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb0e5275c3913140800000000000000
+      internalID: 4697698362560744447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_83
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea26e89c6fc4f0f0800000000000000
+      internalID: -1084013544960808223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111fc821d1fa15c40800000000000000
+      internalID: 5499369159396225297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_85
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed913fbe4f2e5e80800000000000000
+      internalID: -8188055057251328539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e3bfecd1d77990800000000000000
+      internalID: -7388205916833455932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1a2b56414e43080800000000000000
+      internalID: -9208484561809137247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_88
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d289c1957249f90800000000000000
+      internalID: -6947885061440524955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0407e3174496ae6a0800000000000000
+      internalID: -6419202576184610752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_90
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e91be0e14c16a0800000000000000
+      internalID: -6477229729792793965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796b815be0e504460800000000000000
+      internalID: 7223877219563124375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4925ec1be6aca10800000000000000
+      internalID: 1930477100231464121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_93
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d8e1ff351e49ab0800000000000000
+      internalID: -5002125535223050973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f93993b48f84ad0800000000000000
+      internalID: -2717649373145882755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251258ee6bd996300800000000000000
+      internalID: 245901063679713618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8147a1c9bb5ddb40800000000000000
+      internalID: 5466626376073691534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454beb7b90434deb0800000000000000
+      internalID: -4696071295098506156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_98
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da7bbacdfc670ed0800000000000000
+      internalID: -2447868035168765231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c834810244037290800000000000000
+      internalID: -7893961040310552381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0e03a221e4b2b30800000000000000
+      internalID: 4263587312160530679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3f058cb3a24f70800000000000000
+      internalID: 9170071821361298588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c089fec3d482e8ea0800000000000000
+      internalID: -5868708952217249780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4986e9f61ecb44ec0800000000000000
+      internalID: -3583531727053756268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_104
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a31675058ea70dd0800000000000000
+      internalID: -2519853580144995424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4ff1ed6e985580800000000000000
+      internalID: -8838140073934369503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1258dbbd8ece124b0800000000000000
+      internalID: -5466827987787872991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
