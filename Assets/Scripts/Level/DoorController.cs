@@ -8,6 +8,8 @@ public class DoorController : MonoBehaviour
     public Animator animator;
     public float offset;
 
+    public GameObject doorSoundHolder;
+
     void Start()
     {
         isOpen = false;
@@ -23,5 +25,7 @@ public class DoorController : MonoBehaviour
     {
         isOpen = open;
         animator.SetBool("IsOpen", open);
+        if(doorSoundHolder != null)
+            Instantiate(doorSoundHolder, transform.position, Quaternion.identity);
     }
 }

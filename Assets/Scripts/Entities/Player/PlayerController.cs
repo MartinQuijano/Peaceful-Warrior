@@ -20,21 +20,22 @@ public class PlayerController : MonoBehaviour
     public float inmuneDuration;
     private float inmuneCounter = 0f;
     public float stunDuration;
-
     public float checkRadius;
-
     public bool isOnTheGround;
     public bool isJumping;
     public bool isLookingUp;
     public bool isBlocking;
 
     public bool canMove = true;
+    public bool isFrozen = false;
+
+    public float coyoteTime = 0.2f;
+    private float coyoteTimeCounter;
 
     public int health;
     public int max_health;
 
     public AudioSource audioSource;
-
     public AudioClip jumpSFX;
 
     void Start()
@@ -49,6 +50,8 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if(isFrozen)
+            return;
         if (inmuneActive)
         {
             if (inmuneCounter > inmuneDuration * .99f)
@@ -78,16 +81,15 @@ public class PlayerController : MonoBehaviour
         else if (input.horizontal < 0)
             transform.eulerAngles = new Vector3(0, 180, 0);
     }
-
     void FixedUpdate()
     {
-        
+        if(isFrozen)
+            return;
         PhysicsCheck();
         StateCheck();
         Animations();
         Movement();
     }
-
     void PhysicsCheck()
     {
         isOnTheGround = false;
@@ -96,9 +98,13 @@ public class PlayerController : MonoBehaviour
         if (isOnTheGround)
             isJumping = false;
     }
-
     void StateCheck()
     {
+        if(isOnTheGround){
+            coyoteTimeCounter = coyoteTime;
+        } else {
+            coyoteTimeCounter -= Time.deltaTime;
+        }
         if (isOnTheGround && input.raiseShieldPressed)
         {
             isBlocking = true;
@@ -120,7 +126,6 @@ public class PlayerController : MonoBehaviour
             isLookingUp = false;
         }
     }
-
     void Movement()
     {
         if (!canMove)
@@ -128,16 +133,16 @@ public class PlayerController : MonoBehaviour
 
         rb.velocity = new Vector2(input.horizontal * moveSpeed, rb.velocity.y);
 
-        if (input.jumpPressed && !isJumping && isOnTheGround)
+        if (input.jumpPressed && !isJumping && coyoteTimeCounter > 0f)
         {
-            audioSource.PlayOneShot(jumpSFX, 0.7f);
+            coyoteTimeCounter = 0f;
+            audioSource.PlayOneShot(jumpSFX, 0.25f);
             isOnTheGround = false;
             isJumping = true;
             rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
         }
 
     }
-
     void Animations()
     {
         if (isOnTheGround)
@@ -158,35 +163,31 @@ public class PlayerController : MonoBehaviour
         else
             animator.SetBool("IsLookingUp", false);
     }
-
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "platform")
             this.transform.parent = collision.transform;
     }
-
     private void OnCollisionExit2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "platform")
             this.transform.parent = null;
     }
-
     public void TakeDamage(int dmg)
     {
         health -= dmg;
         inmuneActive = true;
         inmuneCounter = inmuneDuration;
-
-        Debug.Log("Remaining health: " + health);
     }
-
     public void GetStuned()
     {
         input.horizontal = 0;
         rb.velocity = Vector2.zero;
         StartCoroutine(Stun());
     }
-
+    public bool WasDamaged(){
+        return max_health != health;
+    }
     IEnumerator Stun()
     {
         isJumping = false;
@@ -198,20 +199,32 @@ public class PlayerController : MonoBehaviour
         canMove = true;
         animator.SetBool("CanMove", true);
     }
-
+    public void GetFrozen(){
+        StartCoroutine(Freeze());
+    }
+    IEnumerator Freeze()
+    {
+        isFrozen = true;
+        isJumping = false;
+        canMove = false;
+        rb.velocity = Vector2.zero;
+        animator.SetFloat("Speed", 0f);
+        animator.SetBool("IsJumping", false);
+        yield return new WaitForSeconds(2f);
+        canMove = true;
+        isFrozen = false;
+        animator.SetBool("CanMove", true);
+    }
     public bool IsInmune()
     {
         return inmuneActive;
     }
-
     public int GetHealth()
     {
         return health;
     }
-
     public bool IsAlive()
     {
         return health > 0;
     }
-
 }

@@ -13,6 +13,8 @@ public class PlayerInput : MonoBehaviour
 
     private bool readyToClear;
 
+    public InLevelMenuManager inLevelMenuManager;
+
     void Update()
     {
         ClearInput();
@@ -46,6 +48,14 @@ public class PlayerInput : MonoBehaviour
 
     private void ProcessInputs()
     {
+        if(Input.GetKeyDown(KeyCode.P)){
+            if(inLevelMenuManager.isGamePaused()){
+                inLevelMenuManager.ResumeGame();
+            } else {
+                inLevelMenuManager.PauseGame();
+            }
+        }
+
         horizontal = Input.GetAxisRaw("Horizontal");
 
         upPressed = upPressed || Input.GetButtonDown("Vertical");

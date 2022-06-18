@@ -506,6 +506,15 @@ TextureImporter:
   - first:
       213: -5466827987787872991
     second: spritesheet_map_military_12-02-2021_106
+  - first:
+      213: 4353606062445754672
+    second: spritesheet_map_military_12-02-2021_107
+  - first:
+      213: -7464508115855053817
+    second: spritesheet_map_military_12-02-2021_108
+  - first:
+      213: -1350481616262839888
+    second: spritesheet_map_military_12-02-2021_109
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -2837,7 +2846,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2845,6 +2854,69 @@ TextureImporter:
       bones: []
       spriteID: 1258dbbd8ece124b0800000000000000
       internalID: -5466827987787872991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_107
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039f01cb5ad1b6c30800000000000000
+      internalID: 4353606062445754672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_108
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c6073da6db86890800000000000000
+      internalID: -7464508115855053817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_map_military_12-02-2021_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b145fa0020224de0800000000000000
+      internalID: -1350481616262839888
       vertices: []
       indices: 
       edges: []

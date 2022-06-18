@@ -13,8 +13,15 @@ public class GameController : MonoBehaviour
     public Vector3 playerRespawnPosition;
 
     public bool levelEnded;
-    public TextMeshProUGUI timer;
-    public TextMeshProUGUI bestTime;
+    public bool isVictoryScreenDisplayed;
+    public bool isGameOverScreenDisplayed;
+
+    public GameObject victoryScreen;
+    public GameObject gameOverScreen;
+    public GameObject canvasRoot;
+    public TextMeshProUGUI timeAchievedText;
+    public TextMeshProUGUI bestTimeAchievedText;
+    public TimerController timerController;
 
     private void Awake()
     {
@@ -34,7 +41,8 @@ public class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        bestTime.text = "Best time: " + PlayerPrefs.GetString("Level_Military", "0:00,00");
+        isVictoryScreenDisplayed = false;
+        isGameOverScreenDisplayed = false;
         levelEnded = false;
         currentLifes = 2;
         lifeCounter_UIText.GetComponent<TextMeshProUGUI>().text = "x " + currentLifes;
@@ -42,10 +50,15 @@ public class GameController : MonoBehaviour
     }
 
     void Update()
-    {       
+    {
+        CheckAndReloadCanvasUI();
+        if (isVictoryScreenDisplayed || isGameOverScreenDisplayed)
+            return;
+
         if (levelEnded)
         {
-            FinishLevel();
+            if (!isVictoryScreenDisplayed)
+                FinishLevel();
         }
 
         if (player == null)
@@ -60,7 +73,7 @@ public class GameController : MonoBehaviour
             lifeCounter_UIText.GetComponent<TextMeshProUGUI>().text = "x " + currentLifes;
         }
 
-        if(player.respawnPoint.transform.position != playerRespawnPosition)
+        if (player.respawnPoint.transform.position != playerRespawnPosition)
         {
             playerRespawnPosition = player.respawnPoint.transform.position;
         }
@@ -71,29 +84,59 @@ public class GameController : MonoBehaviour
             lifeCounter_UIText.GetComponent<TextMeshProUGUI>().text = "x " + currentLifes;
             if (currentLifes == 0)
             {
-                //de momento asi pero debe activarse el menu que sea necesario para resetear el nivel
+                isGameOverScreenDisplayed = true;
+                gameOverScreen.gameObject.SetActive(true);
+                Time.timeScale = 0f;
+
                 gcInstance = null;
-                SceneManager.LoadScene("SampleScene");
-                Destroy(this.gameObject);
             }
             else
             {
-              //  StartCoroutine(WaitSecondAndRespawnPlayer());
-                SceneManager.LoadScene("SampleScene");
+                SceneManager.LoadScene("MilitaryLevel");
             }
         }
     }
 
     private void FinishLevel()
     {
-        float currentTime = float.Parse(timer.text);
-        float recordTime = float.Parse(bestTime.text);
+        isVictoryScreenDisplayed = true;
 
-        if (currentTime < recordTime)
+        timeAchievedText.text = timerController.GetTime();
+
+        victoryScreen.gameObject.SetActive(true);
+        Time.timeScale = 0f;
+
+        double bestTimeAchievedSaved = PlayerPrefs.GetFloat("Time_Float", 9999999999999999);
+
+        if (timerController.GetTimeInFloat() < bestTimeAchievedSaved)
         {
-            // Desplegar un texto indicando que se consiguió un nuevo record de tiempo
-            Debug.Log("TIEMPO RECORD!");
-            PlayerPrefs.SetString("Level_Military", timer.text);
+            PlayerPrefs.SetString("Level_Military", timerController.GetTime());
+            PlayerPrefs.SetFloat("Time_Float", timerController.GetTimeInFloat());
+        }
+        bestTimeAchievedText.text = "Best " + PlayerPrefs.GetString("Level_Military", "0:00,00");
+
+        PlayerPrefs.SetString("LevelCompleted", "true");
+
+        if (timerController.GetTimeInFloat() < 540000f)
+        {
+            PlayerPrefs.SetString("GreatTime", "true");
+        }
+
+        if (!player.WasDamaged())
+        {
+            PlayerPrefs.SetString("NoDamageTaken", "true");
+        }
+    }
+
+    private void CheckAndReloadCanvasUI()
+    {
+        if (canvasRoot == null)
+        {
+            canvasRoot = GameObject.Find("Canvas");
+            victoryScreen = canvasRoot.transform.Find("VictoryScreen").gameObject;
+            gameOverScreen = canvasRoot.transform.Find("GameOverScreen").gameObject;
+            timeAchievedText = victoryScreen.transform.Find("Time").GetComponent<TextMeshProUGUI>();
+            bestTimeAchievedText = victoryScreen.transform.Find("BestTime").GetComponent<TextMeshProUGUI>();
         }
     }
 }

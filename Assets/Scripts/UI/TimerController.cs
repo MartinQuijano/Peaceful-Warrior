@@ -7,6 +7,7 @@ public class TimerController : MonoBehaviour
     private static TimerController tcInstance;
 
     public TextMeshProUGUI TMP_text;
+    public float finalElapsedTime;
 
     private TimeSpan timePlaying;
     public bool timerActive;
@@ -44,6 +45,14 @@ public class TimerController : MonoBehaviour
         timerActive = false;
     }
 
+    public String GetTime(){
+        return TMP_text.text;
+    }
+
+    public float GetTimeInFloat(){
+        return finalElapsedTime;
+    }
+
     private void Update()
     {
         if(TMP_text == null)
@@ -55,6 +64,7 @@ public class TimerController : MonoBehaviour
         {
             elapsedTime += Time.deltaTime;
             timePlaying = TimeSpan.FromSeconds(elapsedTime);
+            finalElapsedTime = (float)timePlaying.TotalMilliseconds;
             string timePlayingStr = "Time: " + timePlaying.ToString("mm':'ss'.'ff");
             TMP_text.text = timePlayingStr;
         }

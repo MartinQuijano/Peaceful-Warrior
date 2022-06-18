@@ -14,6 +14,8 @@ public class FinalScenario : MonoBehaviour
 
     public DoorController door;
 
+    public CameraSwitcher cs;
+
     void Start()
     {
         actualPhaseIndex = 0;
@@ -31,18 +33,22 @@ public class FinalScenario : MonoBehaviour
             
             StartCoroutine(WaitTimeBetweenPhases());
             StartCoroutine(WaitTimeToDestroyFloorPhase2());
-            Debug.Log("wow");
             }
         }
         else
         {
-            if (phases[actualPhaseIndex].IsPhaseOver())
-                StartCoroutine(WaitTimeAndOpenDoor());            
+            if (phases[actualPhaseIndex].IsPhaseOver() && !isChangingPhases)
+            {
+                isChangingPhases = true;
+                StartCoroutine(WaitTimeAndOpenDoor());
+            }            
         }
     }
 
     IEnumerator WaitTimeAndOpenDoor()
     {
+        yield return new WaitForSeconds(4f);
+        cs.ChangeCamera2();
         yield return new WaitForSeconds(3f);
         door.SetOpen(true);
     }
@@ -81,7 +87,7 @@ public class FinalScenario : MonoBehaviour
 
     IEnumerator WaitTimeToDestroyFloorPhase2()
     {
-        yield return new WaitForSeconds(8f);
+        yield return new WaitForSeconds(9f);
         if (actualPhaseIndex == 1)
         {
             ClearPhase2Objects();

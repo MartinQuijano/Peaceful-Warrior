@@ -11,6 +11,8 @@ public class Phase3Controller : PhaseController
     List<float> posiblePositions = new List<float>();
     List<float> toRestorePositions = new List<float>();
 
+    public GameObject explosionSoundHolder;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -67,7 +69,9 @@ public class Phase3Controller : PhaseController
 
     IEnumerator WaitAndActivateSpawner()
     {
-        yield return new WaitForSeconds(6f);
+        yield return new WaitForSeconds(4f);
+        Instantiate(explosionSoundHolder, transform.position, Quaternion.identity);
+        yield return new WaitForSeconds(2f);
         shouldSpawn = true;
     }
 }

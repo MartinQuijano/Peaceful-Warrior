@@ -26,7 +26,6 @@ public class CannonController : MonoBehaviour
         {
             Shoot();
             canShoot = false;
-            audioSource.PlayOneShot(shootSFX, 0.9f);
             StartCoroutine(Reload());
         }
     }
@@ -42,5 +41,7 @@ public class CannonController : MonoBehaviour
         GameObject cb = Instantiate(cannonBall, new Vector2(transform.position.x + (shootDirection * 0.7f), transform.position.y), Quaternion.identity);
         cb.GetComponent<CannonBallController>().SetDirection(shootDirection);
         cb.GetComponent<CannonBallController>().SetSpeed(cannonBallSpeed);
+        if(audioSource != null && shootSFX != null)
+            audioSource.PlayOneShot(shootSFX, 0.9f);
     }
 }

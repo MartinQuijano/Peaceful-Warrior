@@ -9,6 +9,7 @@ public class CannonFinalSceneController : CannonController
     void Start()
     {
         animator = gameObject.GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     public void ActivateShootAnimation(bool state)

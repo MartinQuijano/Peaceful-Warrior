@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class EndGameTrigger : MonoBehaviour
 {
-
     public GameController gameController;
+
+    public void Start(){
+        gameController = GameObject.Find("GameController").GetComponent<GameController>();
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

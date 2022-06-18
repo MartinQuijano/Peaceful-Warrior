@@ -168,7 +168,7 @@ MonoBehaviour:
   animator: {fileID: 7663023882983857510}
   explosion: {fileID: 8618038121919019328, guid: e6af2f4cf3b092c44b111e7078e70b10,
     type: 3}
-  audioSource: {fileID: 2727086175046529891, guid: 3746e12afe2d2324283bf15b9796590a,
+  explosionSoundHolder: {fileID: 8146958269130911192, guid: 755191a34c27d9340b4c66cd3fe313b2,
     type: 3}
 --- !u!1 &7663023884655010863
 GameObject:

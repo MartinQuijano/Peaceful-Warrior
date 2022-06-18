@@ -7,8 +7,8 @@ public class RestartPlatform : MonoBehaviour
     public GameObject platformToRestar;
 
     public void RestartPlatformPosition(){
-        
-        platformToRestar.GetComponent<PathFollowingAndBack>().Restart();
+        if(platformToRestar.GetComponent<PathFollowingAndBack>().enabled == true)
+            platformToRestar.GetComponent<PathFollowingAndBack>().Restart();
     }
 
 }

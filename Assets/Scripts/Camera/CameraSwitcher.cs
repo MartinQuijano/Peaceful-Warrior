@@ -21,5 +21,15 @@ public class CameraSwitcher : MonoBehaviour
 
         cvc2.m_Follow = player.transform;
     }
+
+    public void ChangeCamera2()
+    {
+        cvc1.enabled = true;
+        cvc2.enabled = false;
+
+        ch.changeCamera(cvc1);
+
+        cvc1.m_Follow = player.transform;
+    }
 }
 

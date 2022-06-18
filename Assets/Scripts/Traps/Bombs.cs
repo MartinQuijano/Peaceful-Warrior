@@ -5,6 +5,7 @@ public class Bombs : MonoBehaviour
 {
     public Animator animator;
     public GameObject explosion;
+    public GameObject explosionSoundHolder;
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -24,6 +25,7 @@ public class Bombs : MonoBehaviour
     {
         yield return new WaitForSeconds(4f);
         Instantiate(explosion, transform.position, Quaternion.identity);
+        Instantiate(explosionSoundHolder, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
 }
