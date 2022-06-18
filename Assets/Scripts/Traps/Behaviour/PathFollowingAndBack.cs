@@ -17,13 +17,11 @@ public class PathFollowingAndBack : MonoBehaviour
 
     private bool isActive = false;
 
-    // Start is called before the first frame update
     void Start()
     {
         isActive = true;
         initialPosition = transform.position;
         isGoingForward = true;
-        // transform.position = waypoints[waypointIndex].transform.position;
     }
 
     void Update()
